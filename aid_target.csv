@@ -1,0 +1,217 @@
+aid,target,target_type,active_count,inactive_count,total,name,function
+1,NCI-H23,Cell Line,66,514,580,NCI human tumor cell line growth inhibition assay. Data for the NCI-H23 Non-Small Cell Lung cell line,Non-Small Cell Lung
+3,NCI-H226,Cell Line,57,483,540,NCI human tumor cell line growth inhibition assay. Data for the NCI-H226 Non-Small Cell Lung cell line,Non-Small Cell Lung
+5,NCI-H322M,Cell Line,57,516,573,NCI human tumor cell line growth inhibition assay. Data for the NCI-H322M Non-Small Cell Lung cell line,Non-Small Cell Lung
+7,NCI-H460,Cell Line,74,481,555,NCI human tumor cell line growth inhibition assay. Data for the NCI-H460 Non-Small Cell Lung cell line,Non-Small Cell Lung
+9,HOP-62,Cell Line,66,472,538,NCI human tumor cell line growth inhibition assay. Data for the HOP-62 Non-Small Cell Lung cell line,Non-Small Cell Lung
+11,HOP-18,Cell Line,28,87,115,NCI human tumor cell line growth inhibition assay. Data for the HOP-18 Non-Small Cell Lung cell line,Non-Small Cell Lung
+13,HOP-92,Cell Line,78,472,550,NCI human tumor cell line growth inhibition assay. Data for the HOP-92 Non-Small Cell Lung cell line,Non-Small Cell Lung
+15,NCI-H522,Cell Line,91,465,556,NCI human tumor cell line growth inhibition assay. Data for the NCI-H522 Non-Small Cell Lung cell line,Non-Small Cell Lung
+17,LXFL 529,Cell Line,19,83,102,NCI human tumor cell line growth inhibition assay. Data for the LXFL 529 Non-Small Cell Lung cell line,Non-Small Cell Lung
+19,A549,Cell Line,65,506,571,NCI human tumor cell line growth inhibition assay. Data for the A549/ATCC Non-Small Cell Lung cell line,Non-Small Cell Lung
+21,EKVX,Cell Line,61,499,560,NCI human tumor cell line growth inhibition assay. Data for the EKVX Non-Small Cell Lung cell line,Non-Small Cell Lung
+23,LOX IMVI,Cell Line,81,474,555,NCI human tumor cell line growth inhibition assay. Data for the LOX IMVI Melanoma cell line,Melanoma
+25,M14,Cell Line,57,488,545,NCI human tumor cell line growth inhibition assay. Data for the M14 Melanoma cell line,Melanoma
+27,M19-MEL,Cell Line,26,108,134,NCI human tumor cell line growth inhibition assay. Data for the M19-MEL Melanoma cell line,Melanoma
+29,Malme-3M,Cell Line,69,452,521,NCI human tumor cell line growth inhibition assay. Data for the MALME-3M Melanoma cell line,Melanoma
+31,UACC-62,Cell Line,63,510,573,NCI human tumor cell line growth inhibition assay. Data for the UACC-62 Melanoma cell line,Melanoma
+33,UACC-257,Cell Line,59,514,573,NCI human tumor cell line growth inhibition assay. Data for the UACC-257 Melanoma cell line,Melanoma
+35,SK-MEL-2,Cell Line,67,494,561,NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-2 Melanoma cell line,Melanoma
+37,SK-MEL-5,Cell Line,76,496,572,NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-5 Melanoma cell line,Melanoma
+39,SK-MEL-28,Cell Line,63,503,566,NCI human tumor cell line growth inhibition assay. Data for the SK-MEL-28 Melanoma cell line,Melanoma
+41,PC-3,Cell Line,61,421,482,NCI human tumor cell line growth inhibition assay. Data for the PC-3 Prostate cell line,prostate cancer
+43,DU-145,Cell Line,51,428,479,NCI human tumor cell line growth inhibition assay. Data for the DU-145 Prostate cell line,prostate cancer
+45,SF-268,Cell Line,70,501,571,NCI human tumor cell line growth inhibition assay. Data for the SF-268 Central Nervous System cell line,Central Nervous System
+47,SF-295,Cell Line,64,518,582,NCI human tumor cell line growth inhibition assay. Data for the SF-295 Central Nervous System cell line,Central Nervous System
+49,SF-539,Cell Line,71,477,548,NCI human tumor cell line growth inhibition assay. Data for the SF-539 Central Nervous System cell line,Central Nervous System
+51,XF498,Cell Line,30,94,124,NCI human tumor cell line growth inhibition assay. Data for the XF 498 Central Nervous System cell line,Central Nervous System
+53,SNB-19,Cell Line,59,525,584,NCI human tumor cell line growth inhibition assay. Data for the SNB-19 Central Nervous System cell line,Central Nervous System
+55,SNB-75,Cell Line,69,464,533,NCI human tumor cell line growth inhibition assay. Data for the SNB-75 Central Nervous System cell line,Central Nervous System
+57,SNB-78,Cell Line,25,95,120,NCI human tumor cell line growth inhibition assay. Data for the SNB-78 Central Nervous System cell line,Central Nervous System
+59,U-251,Cell Line,74,507,581,NCI human tumor cell line growth inhibition assay. Data for the U251 Central Nervous System cell line,Central Nervous System
+61,DMS-273,Cell Line,29,98,127,NCI human tumor cell line growth inhibition assay. Data for the DMS 273 Small Cell Lung cell line,Small Cell Lung
+63,DMS-114,Cell Line,27,105,132,NCI human tumor cell line growth inhibition assay. Data for the DMS 114 Small Cell Lung cell line,Small Cell Lung
+65,HT-29,Cell Line,76,492,568,NCI human tumor cell line growth inhibition assay. Data for the HT29 Colon cell line,Colon
+67,COLO 205,Cell Line,69,508,577,NCI human tumor cell line growth inhibition assay. Data for the COLO 205 Colon cell line,Colon
+69,DLD-1,Cell Line,30,100,130,NCI human tumor cell line growth inhibition assay. Data for the DLD-1 Colon cell line,Colon
+71,HCT-15,Cell Line,78,505,583,NCI human tumor cell line growth inhibition assay. Data for the HCT-15 Colon cell line,Colon
+73,KM12,Cell Line,62,519,581,NCI human tumor cell line growth inhibition assay. Data for the KM12 Colon cell line,Colon
+75,KM-20L2,Cell Line,28,100,128,NCI human tumor cell line growth inhibition assay. Data for the KM20L2 Colon cell line,Colon
+77,HCC 2998,Cell Line,65,475,540,NCI human tumor cell line growth inhibition assay. Data for the HCC-2998 Colon cell line,Colon
+79,HCT-116,Cell Line,82,501,583,NCI human tumor cell line growth inhibition assay. Data for the HCT-116 Colon cell line,Colon
+83,MCF7,Cell Line,73,426,499,NCI human tumor cell line growth inhibition assay. Data for the MCF7 Breast cell line,Breast
+85,MDA-MB-435,Cell Line,56,426,482,NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-435 Breast cell line,Breast
+87,MDA-N,Cell Line,43,371,414,NCI human tumor cell line growth inhibition assay. Data for the MDA-N Breast cell line,Breast
+89,BT-549,Cell Line,61,384,445,NCI human tumor cell line growth inhibition assay. Data for the BT-549 Breast cell line,Breast
+91,T47D,Cell Line,53,396,449,NCI human tumor cell line growth inhibition assay. Data for the T-47D Breast cell line,Breast
+93,ADR-RES,Cell Line,48,451,499,NCI human tumor cell line growth inhibition assay. Data for the NCI/ADR-RES Breast cell line,Breast
+95,MDA-MB-231,Cell Line,54,427,481,NCI human tumor cell line growth inhibition assay. Data for the MDA-MB-231/ATCC Breast cell line,Breast
+97,Hs-578T,Cell Line,59,380,439,NCI human tumor cell line growth inhibition assay. Data for the HS 578T Breast cell line,Breast
+99,OVCAR-3,Cell Line,73,490,563,NCI human tumor cell line growth inhibition assay. Data for the OVCAR-3 Ovarian cell line,Ovarian
+101,IGROV-1,Cell Line,65,509,574,NCI human tumor cell line growth inhibition assay. Data for the IGROV1 Ovarian cell line,Ovarian
+103,SK-OV-3,Cell Line,58,498,556,NCI human tumor cell line growth inhibition assay. Data for the SK-OV-3 Ovarian cell line,Ovarian
+105,OVCAR-4,Cell Line,60,504,564,NCI human tumor cell line growth inhibition assay. Data for the OVCAR-4 Ovarian cell line,Ovarian
+107,OVCAR-5,Cell Line,55,521,576,NCI human tumor cell line growth inhibition assay. Data for the OVCAR-5 Ovarian cell line,Ovarian
+109,OVCAR-8,Cell Line,70,509,579,NCI human tumor cell line growth inhibition assay. Data for the OVCAR-8 Ovarian cell line,Ovarian
+111,P388,Cell Line,21,21,42,NCI human tumor cell line growth inhibition assay. Data for the P388 Leukemia cell line,Leukemia
+113,RPMI-8226,Cell Line,88,436,524,NCI human tumor cell line growth inhibition assay. Data for the RPMI-8226 Leukemia cell line,Leukemia
+115,SR,Cell Line,72,413,485,NCI human tumor cell line growth inhibition assay. Data for the SR Leukemia cell line,Leukemia
+119,CCRF-CEM,Cell Line,103,450,553,NCI human tumor cell line growth inhibition assay. Data for the CCRF-CEM Leukemia cell line,Leukemia
+121,K562,Cell Line,84,469,553,NCI human tumor cell line growth inhibition assay. Data for the K-562 Leukemia cell line,Leukemia
+123,MOLT-4,Cell Line,81,488,569,NCI human tumor cell line growth inhibition assay. Data for the MOLT-4 Leukemia cell line,Leukemia
+125,HL-60,Cell Line,103,399,502,NCI human tumor cell line growth inhibition assay. Data for the HL-60(TB) Leukemia cell line,Leukemia
+127,SN12K1,Cell Line,19,23,42,NCI human tumor cell line growth inhibition assay. Data for the SN12K1 Renal cell line,Renal
+129,A498,Cell Line,67,457,524,NCI human tumor cell line growth inhibition assay. Data for the A498 Renal cell line,Renal
+131,CAKI-1,Cell Line,70,497,567,NCI human tumor cell line growth inhibition assay. Data for the CAKI-1 Renal cell line,Renal
+133,RXF 393,Cell Line,86,431,517,NCI human tumor cell line growth inhibition assay. Data for the RXF 393 Renal cell line,Renal
+137,786-0,Cell Line,67,484,551,NCI human tumor cell line growth inhibition assay. Data for the 786-0 Renal cell line,Renal
+139,ACHN,Cell Line,57,498,555,NCI human tumor cell line growth inhibition assay. Data for the ACHN Renal cell line,Renal
+141,TK-10,Cell Line,61,474,535,NCI human tumor cell line growth inhibition assay. Data for the TK-10 Renal cell line,Renal
+143,UO-31,Cell Line,63,507,570,NCI human tumor cell line growth inhibition assay. Data for the UO-31 Renal cell line,Renal
+145,SN12C,Cell Line,67,511,578,NCI human tumor cell line growth inhibition assay. Data for the SN12C Renal cell line,Renal
+155,rad50,cancer,104,409,513,NCI Yeast Anticancer Drug Screen. Data for the rad50 strain,cancer
+157,mec2-1,cancer,105,408,513,NCI Yeast Anticancer Drug Screen. Data for the mec2-1 strain,cancer
+161,sgs1 mgt1,cancer,107,406,513,NCI Yeast Anticancer Drug Screen. Data for the sgs1 mgt1 strain,cancer
+165,cln2 rad14,cancer,100,413,513,NCI Yeast Anticancer Drug Screen. Data for the cln2 rad14 strain,cancer
+167,bub3,cancer,106,407,513,NCI Yeast Anticancer Drug Screen. Data for the bub3 strain,cancer
+175,mlh1 rad18,cancer,109,402,511,NCI Yeast Anticancer Drug Screen. Data for the mlh1 rad18 strain,cancer
+328,BDF1,cancer,26,98,124,NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia (intraperitoneal) in B6D2F1 (BDF1) mice,cancer
+330,CDF1,cancer,39,330,369,NCI In Vivo Anticancer Drug Screen. Data for tumor model  P388 Leukemia (intraperitoneal) in CD2F1 (CDF1) mice,cancer
+410,cytochrome P450 1A2,Protein,30,83,113,p450-cyp1a2,Inhibitors
+450,glucocorticoid receptor isoform gamma,Protein,18,117,135,GR-GFP Redistribution,Central Nervous System
+884,cytochrome P450 3A4 isoform 1,Protein,55,146,201,qHTS Assay for Inhibitors and Substrates of Cytochrome P450 3A4,Inhibitors
+899,cytochrome P450 2C19 precursor,Protein,21,92,113,qHTS Assay for Inhibitors and Substrates of Cytochrome P450 2C19,Inhibitors
+1030,"aldehyde dehydrogenase 1 family, member A1",Protein,27,305,332,qHTS Assay for Inhibitors of Aldehyde Dehydrogenase 1 (ALDH1A1),Inhibitors
+1460,Microtubule-associated protein tau,Protein,23,249,272,"qHTS for Inhibitors of Tau Fibril Formation, Thioflavin T Binding",Inhibitors
+1578,NOD1,Protein,24,164,188,uHTS luminescence assay for the identification of compounds that inhibit NOD1,inflammatory disorders
+1813,SNCA,Protein,23,200,223,MLPCN Alpha-Synuclein 5'UTR - 5'-UTR binding - inhibitors,Parkinson
+1851,CYP450,Protein,29,56,85,Cytochrome panel assay with activity outcomes,Inhibitors
+2275,BJeLR,Cell Line,27,233,260,Luminescence Cell-Based Primary HTS to Measure Viability of BJeLR cells,cancer
+2313,shh,Pathway,27,263,290,Luminescence Cell-Based Primary HTS to Identify Inhibitors of the Sonic Hedgehog Signaling Pathway,Inhibitors
+2314,shiga toxin 1 A/B,Protein,21,223,244,Cycloheximide Counterscreen for Small Molecule Inhibitors of Shiga Toxin,Inhibitors
+2330,serine/threonine kinase 33,Protein,77,179,256,Luminescence Cell-Based Primary HTS to Identify Inhibitors of STK33,Inhibitors
+2551,nuclear receptor ROR-gamma isoform 2,Protein,40,386,426,qHTS for inhibitors of ROR gamma transcriptional activity,Inhibitors
+2732,DNA damage-inducible transcript 3 protein,Protein,26,123,149,HTS for small molecule inhibitors of CHOP to regulate the unfolded protein response to ER stress,Inhibitors
+463190,TPA: protein transporter TIM10,Protein,30,297,327,uHTS identification of small molecule inhibitors of tim10-1 yeast via a luminescent assay,Inhibitors
+485346,Mdm2/Mdm4,Protein,60,267,327,uHTS for identification of Inhibitors of Mdm2/MdmX interaction in luminescent format.,Inhibitors
+488899,Microphthalmia-associated transcription factor,Gene,26,277,303,MITF Measured in Cell-Based System Using Plate Reader - 2084-01_Inhibitor_SinglePoint_HTS_Activity,Inhibitors
+504332,euchromatic histone-lysine N-methyltransferase 2,Protein,28,376,404,qHTS Assay for Inhibitors of Histone Lysine Methyltransferase G9a,Inhibitors
+504444,nuclear factor erythroid 2-related factor 2 isoform 2,Protein,32,258,290,Nrf2 qHTS screen for inhibitors,Inhibitors
+504558,LMP1 [Human herpesvirus 4],Protein,22,309,331,Inhibitors of Epstein-Barr LMP1 inducible NF-kappaB luciferase reporter Measured in Cell-Based System Using Plate Reader - 2122-01_Inhibitor_SinglePoint_HTS_Activity,Virus Antivirals
+504749,Plasmodium falciparum,parasite,27,52,79,qHTS profiling for inhibitors of Plasmodium falciparum proliferation,Inhibitors
+504834,malarial parasite,parasite,52,173,225,"Primary qHTS for delayed death inhibitors of the malarial parasite plastid, 96 hour incubation",Inhibitors
+504847,vitamin D3 receptor isoform VDRA,Protein,34,536,570,Inhibitors of the vitamin D receptor (VDR): qHTS,Inhibitors
+540276,gene 4 small orf - Marburg virus,Protein,21,84,105,qHTS for inhibitors of binding or entry into cells for Marburg Virus,Virus Antivirals
+588405,protein phosphatase 1 regulatory subunit 15A,Protein,37,318,355,HTS Assay for Peg3 Promoter Inhibitors,Inhibitors
+588850,cystic fibrosis transmembrane conductance regulator,Protein,49,306,355,uHTS identification of cystic fibrosis induced NFkb Inhibitors in a fluoresence assay,Inhibitors
+588855,Smad3,Protein,37,255,292,qHTS for Inhibitors of TGF-b,Inhibitors
+602281,ABHD5/perilipin-5,Protein,22,335,357,"Luminescence-based biochemical primary high throughput screening assay to identify inhibitors of the interaction of the lipase co-activator protein, abhydrolase domain containing 5 (ABHD5) with perilipin-5 (MLDP; PLIN5)",Inhibitors
+624296,geminin,Protein,35,270,305,A quantitative high throughput screen for small molecules that induce DNA re-replication in MCF 10a normal breast cells.,breast 
+624297,geminin,Protein,26,304,330,A quantitative high throughput screen for small molecules that induce DNA re-replication in SW480 colon adenocarcinoma cells.,Colon
+624352,endothelial PAS domain-containing protein 1,Protein,30,327,357,uHTS identification of HIF-2a Inhibitors in a luminesence assay,Inhibitors
+651633,p53,Pathway,32,213,245,qHTS assay for small molecule agonists of the p53 signaling pathway - cell viability,small molecule agonists
+651634,ATAD5,Cell Line,23,219,242,qHTS assay for small molecules that induce genotoxicity in human embryonic kidney cells expressing luciferase-tagged ATAD5 - cell viability,kidney
+651635,Ataxin-2,Protein,23,316,339,Viability Counterscreen for Primary qHTS for Inhibitors of ATXN expression,Inhibitors
+651661,EWS/Fli,Protein,26,297,323,Luminescence Cell-Based Primary HTS to identify inhibitors of the oncoprotein EWS/Fli transcriptional activity Measured in Cell-Based System Using Plate Reader - 7014-01_Inhibitor_SinglePoint_HTS_Activity,Inhibitors
+651741,nuclear factor erythroid 2-related factor 2 isoform 1,Pathway,17,24,41,qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway,small molecule agonists
+651820,HCV,Virus,26,257,283,qHTS Assay for Inhibitors of Hepatitis C Virus (HCV),Virus Antivirals
+652054,D(3) dopamine receptor isoform e,Protein,20,325,345,qHTS of D3 Dopamine Receptor Antagonist: qHTS,small molecule antagonists
+652154,PAX8,Protein,34,203,237,HTS for PAX8 inhibitors using PAX8 luciferase reporter gene assay in RMG-I cells Measured in Cell-Based System Using Plate Reader - 7054-01_Inhibitor_SinglePoint_HTS_Activity,Inhibitors
+686971,IDH1,Protein,46,264,310,qHTS for induction of synthetic lethality in tumor cells producing 2HG: qHTS for the HT-1080-IDH1KD cell line,cancer
+686979,TDP1 protein,Protein,152,328,480,qHTS for Inhibitors of human tyrosyl-DNA phosphodiesterase 1 (TDP1): qHTS in cells in presence of CPT,Inhibitors
+720532,Marburg Virus,Virus,33,269,302,qHTS for Inhibitors of binding or entry into cells for Marburg Virus,Virus Antivirals
+720533,Lassa Virus,Virus,39,266,305,qHTS for Inhibitors of binding or entry into cells for Lassa Virus,Virus Antivirals
+720552,Cellular tumor antigen p53,Pathway,17,218,235,qHTS assay for small molecule agonists of the p53 signaling pathway: Summary,small molecule agonists
+720579,Vaccinia Orthopoxvirus,Virus,30,376,406,qHTS for Stage-Specific Inhibitors of Vaccinia Orthopoxvirus: mCherry Reporter Primary qHTS,Virus Antivirals
+720596,PRPC,Protein,23,315,338,TRFRET-based cell-based primary high throughput screening assay to identify inhibitors of cell surface Prion Protein (PRPC),Inhibitors
+720637,Mitochondrion membrane,Protein,34,181,215,qHTS assay for small molecule disruptors of the mitochondrial membrane potential: Summary,CellTox 
+720692,glucocorticoid receptor [Homo sapiens],Pathway,39,143,182,qHTS assay to identify small molecule antagonists of the glucocorticoid receptor (GR) signaling pathway,small molecule antagonists
+743012,DT40,Cell Line,69,154,223,qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - wild type cell line,CellTox 
+743014,DT40,Cell Line,79,143,222,qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rev3 mutant cell line,CellTox 
+743015,DT40,Cell Line,77,147,224,qHTS assay for identifying genotoxic compounds that show differential cytotoxicity against isogenic chicken DT40 cell lines with known DNA damage response pathways - Rad54/Ku70 mutant cell line,CellTox 
+743035,AR protein,Pathway,25,167,192,qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway,small molecule antagonists
+743036,AR protein,Pathway,15,200,215,qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway,small molecule agonists
+743040,AR protein,Pathway,23,224,247,qHTS assay to identify small molecule agonists of the androgen  receptor (AR) signaling pathway using the MDA cell line,small molecule agonists
+743042,AR protein,Pathway,23,221,244,qHTS assay to identify small molecule antagonists of the androgen  receptor (AR) signaling pathway using the MDA cell line,small molecule antagonists
+743063,AR protein,Pathway,22,190,212,qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway: Summary,small molecule antagonists
+743064,TR,Pathway,39,185,224,qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway - cell viability counter screen,small molecule antagonists
+743065,TR,Pathway,53,182,235,qHTS assay to identify small molecule antagonists of the thyroid receptor (TR) signaling pathway,small molecule antagonists
+743075,estrogen nuclear receptor alpha,Pathway,27,217,244,qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway,small molecule agonists
+743079,estrogen nuclear receptor alpha,Pathway,32,175,207,qHTS assay to identify small molecule agonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line,small molecule agonists
+743080,estrogen nuclear receptor alpha,Pathway,17,205,222,qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line,small molecule antagonists
+743194,PPARg,Pathway,15,176,191,qHTS assay to identify small molecule antagonists of the peroxisome proliferator-activated receptor gamma (PPARg) signaling pathway - cell viability counter screen,small molecule antagonists
+743219,nuclear factor erythroid 2-related factor 2 isoform 1,Pathway,24,151,175,qHTS assay for small molecule agonists of the antioxidant response element (ARE) signaling pathway: Summary,small molecule agonists
+743224,VDR,Pathway,21,174,195,qHTS assay to identify small molecule agonists of the vitamin D receptor (VDR) signaling pathway - cell viability counter screen,small molecule agonists
+743279,interleukin-1 beta proprotein,Protein,61,282,343,qHTS for Inhibitors of Inflammasome Signaling:  IL-1-beta AlphaLISA Primary Screen,Inhibitors
+1159521,RAR-related orphan receptor gamma,Pathway,30,176,206,qHTS assay to identify small molecule antagonists of the retinoid-related orphan receptor gamma (ROR-gamma) signaling pathway ,small molecule antagonists
+1159524,FMDV,Virus,29,409,438,High Throughput Screening for Foot and Mouth Disease Virus Antivirals,Virus Antivirals
+1159529,RXR,Pathway,18,183,201,qHTS assay to identify small molecule agonists of the RXR signaling pathway - cell viability counter screen,small molecule agonists
+1159555,retinoic acid nuclear receptor alpha variant 1,Pathway,18,163,181,qHTS assay to identify small molecule antagonists of the retinoic acid receptor (RAR) signaling pathway: Summary,small molecule antagonists
+1159606,TWEAK-Fn14,Protein,31,326,357,"uHTS identification of small molecule inhibitors of TWEAK-Fn14 interactions, using a cell-based reporter assay",Inhibitors
+1224839,"nuclear receptor subfamily 1, group I, member 3",Pathway,13,200,213,qHTS assay to identify small molecule agonists of the constitutive androstane receptor (CAR) signaling pathway,small molecule agonists
+1224841,estrogen-related nuclear receptor alpha,Pathway,24,191,215,qHTS assay to identify small molecule antagonists of the estrogen related receptor signaling pathway with the pleiotropic PPARgamma coactivator (PGC) from Tox21 10K library,small molecule antagonists
+1224844,HIF-1,Pathway,24,187,211,qHTS assay to identify small molecule agonists of the hypoxia (HIF-1) signaling pathway - cell viability counter screen,small molecule agonists
+1224847,H2AX,Protein,18,193,211,qHTS assay to identify small molecule agonists of H2AX - cell viability counter screen,small molecule agonists
+1224848,estrogen-related nuclear receptor alpha,Pathway,34,182,216,qHTS assay to identify small molecule antagonists of the estrogen related receptor (ERR) signaling pathway from Tox21 library,small molecule antagonists
+1224871,HEK293,Cell Line,24,181,205,A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 40 hour,CellTox 
+1224874,HEK293,Cell Line,27,185,212,qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 40 hour,CellTox 
+1224879,HepG2,Cell Line,24,178,202,A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 40 hour,CellTox 
+1224881,HEK293,Cell Line,20,189,209,A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HEK293 cells - 32 hour,CellTox 
+1224883,HepG2,Cell Line,20,186,206,A CellTox Green Cytotoxicity Assay to monitor cytotoxicity in HepG2 cells - 32 hour,CellTox 
+1224886,HEK293,Cell Line,26,186,212,qHTS RealTime-Glo MT Cell Viability Assay in HEK293 cells - 24 hour,CellTox 
+1224889,HepG2,Cell Line,15,202,217,qHTS RealTime-Glo MT Cell Viability Assay in HepG2 cells - 0 hour,CellTox 
+1259243,AR protein,Pathway,26,188,214,qHTS assay to identify small molecule antagonists of the androgen receptor (AR) signaling pathway using the MDA cell line in the presence of 0.5 nM R1881,small molecule antagonists
+1259248,estrogen nuclear receptor alpha,Pathway,16,190,206,qHTS assay to identify small molecule antagonists of the estrogen receptor alpha (ER-alpha) signaling pathway using the BG1 cell line in the presence of 0.1 nM 17-beta-estradiol: Summary,small molecule antagonists
+1259369,GLI family zinc finger 3,Pathway,39,153,192,qHTS assay to identify small molecule antagonists of the sonic hedgehog signaling (Shh) pathway,small molecule antagonists
+1259380,ER-beta,Pathway,30,172,202,qHTS assay to identify small molecule agonists of the estrogen receptor beta (ER-beta) signaling pathway - cell viability counter screen,small molecule agonists
+1259381,AR protein,Pathway,25,201,226,qHTS assay to identify small molecule agonists of the androgen receptor (AR) signaling pathway in the presence of an antagonist,small molecule agonists
+1259382,ER-beta,Pathway,22,197,219,qHTS assay to identify small molecule antagonists of the estrogen receptor beta (ER-beta) signaling pathway - cell viability counter screen,small molecule antagonists
+1259415,HCMV,Virus,50,245,295,qHTS Assay for inhibitors of the human cytomegalovirus (HCMV),Virus Antivirals
+1259416,interferon gamma precursor,Protein,40,121,161,Toxoplasma gondii inhibition HTS in the presence of IFN-y,Inhibitors
+1259421,interferon gamma precursor,parasite,33,109,142,Toxoplasma gondii HTS in the absence of IFN-y,Inhibitors
+1259422,transcriptional coactivator YAP1 isoform 1,parasite,19,173,192,Luminescence cell-based high throughput primary assay to identify inhibitors of TEAD-YAP interaction.,Inhibitors
+1296008,,,100,614,714,Cytotoxic Profiling of Annotated Libraries Using Quantitative High-Throughput Screening,CellTox 
+1296009,MCC,,99,561,660,qHTS assay to identify novel small-molecules to repurpose for Merkel cell carcinoma treatment,cancer
+1345082,NIH3T3,,123,196,319,Cytotoxic Profiling in NIH 3T3 Cell Line of Diverse Libraries Using Quantitative High-Throughput Screening,CellTox 
+1345083,HEK293,,151,181,332,Cytotoxic Profiling in HEK 293 Cell Line of Diverse Libraries Using Quantitative High-Throughput Screening,CellTox 
+1345084,,,72,567,639,Primary qHTS to identify gynecologic anti-cancer compounds using libraries of approved drugs and bioactive compounds,cancer
+1345199,glioblastoma,Cell Line,51,65,116,Drug repurposing screens with cells derived from glioblastoma tumor samples,cancer
+1346798,PR,Pathway,18,178,196,qHTS assay to identify small molecule antagonists of the progesterone receptor (PR) signaling pathway - cell viability counter screen,small molecule antagonists
+1346799,PR,Pathway,15,163,178,qHTS assay to identify small molecule agonists of the progesterone receptor (PR) signaling pathway - cell viability counter screen,small molecule agonists
+1346979,CHO-K1,Cell Line,25,178,203,"Caspase-3/7 induction in CHO-K1 cells by small molecules, qHTS cell viability counter screen",CellTox 
+1346982,pregnane X nuclear receptor,Protein,74,141,215,"Human pregnane X receptor (PXR) small molecule agonists, qHTS assay",small molecule agonists
+1346986,KB-3-1,Cell Line,54,610,664,"P-glycoprotein substrates identified in KB-3-1 adenocarcinoma cell line, qHTS therapeutic library screen",cancer
+1346987,KB-8-5-11 ,Cell Line,73,577,650,"P-glycoprotein substrates identified in KB-8-5-11 adenocarcinoma cell line, qHTS therapeutic library screen",cancer
+1347032,SMAD family member 2/3,Protein,11,196,207,"TGF-beta/Smad small molecule antagonists, qHTS assay: Summary",small molecule antagonists
+1347060,SU-DIPG-XVII,,37,25,62,Diffuse intrinsic pontine glioma (SU-DIPG-XVII) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Glo,cancer
+1347064,SU-DIPG-XIII,,27,28,55,Diffuse intrinsic pontine glioma (SU-DIPG-XIII) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Glo,cancer
+1347065,SU-DIPG-XXV,,39,24,63,Diffuse intrinsic pontine glioma (SU-DIPG-XXV) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Glo,cancer
+1347067,JHH-DIPG-1,,30,32,62,Diffuse intrinsic pontine glioma (JHH-DIPG-1) cell line screen of MIPE5.0 library: viability qHTS assay using CellTiter-Glo,cancer
+1347075,MDR1,Gene,35,278,313,qHTS assay for MDR1-selective chemotherapeutics: Primary screen using the parental adenocarcinoma cell KB-3-1,cancer
+1347076,ABCB1,Gene,29,264,293,qHTS assay for MDR1-selective chemotherapeutics: Primary screen using the drug-selected MDR subline cells KB-V1,cancer
+1347083,Nucleoprotein,Protein,15,237,252,qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lassa (LASV) Arenavirus: Viability assay - alamar blue signal for LASV Primary Screen,Virus Antivirals
+1347085,Nucleoprotein,Protein,11,243,254,qHTS for Inhibitors of the Functional Ribonucleoprotein Complex (vRNP) of Lymphocytic Choriomeningitis Arenaviruses (LCMV): Viability assay - alamar blue signal for LCMV Primary Screen,Virus Antivirals
+1347092,A673,Cell Line,21,60,81,qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for A673 cells,cancer
+1347093,SK-N-MC,Cell Line,30,50,80,qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for SK-N-MC cells,cancer
+1347097,Saos-2,Cell Line,18,51,69,qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for Saos-2 cells,cancer
+1347100,LAN-5,Cell Line,19,66,85,qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for LAN-5 cells,cancer
+1347101,BT-12,Cell Line,18,58,76,qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for BT-12 cells,cancer
+1347103,OHS-50,Cell Line,23,43,66,qHTS of pediatric cancer cell lines to identify multiple opportunities for drug repurposing: Primary screen for OHS-50 cells,cancer
+1347131,"FMDV polyprotein, partial",Protein,11,436,447,qHTS Assay for Foot and Mouth Disease Virus Antivirals: Primary Screen against the MLPCN compound library,Virus Antivirals
+1347159,NS2B-NS3 ,Protein,37,402,439,Primary screen GU Rhodamine qHTS for Zika virus inhibitors: Unlinked NS2B-NS3 protease assay,Virus Antivirals
+1347160,NINDS,Virus,31,502,533,Primary screen NINDS Rhodamine qHTS for Zika virus inhibitors,Virus Antivirals
+1347417,Dd2,parasite,89,251,340,qHTS Primary assay for Inhibitors of Plasmodium falciparum Dd2 growth in vitro,Inhibitors
+1645841,cytochrome P450 family 3 subfamily A polypeptide 4,Protein,20,46,66,Cytochrome P450 family 3 subfamily A member 4 (CYP3A4) small molecule antagonists: luciferase cell-based qHTS assay,small molecule antagonists
+1645855,Ubiquitin carboxyl-terminal hydrolase 17-like protein 5,Protein,21,136,157,USP17 deubiquitinase inhibition: Primary qHTS,Inhibitors
+1645860,Ubiquitin carboxyl-terminal hydrolase 30,Protein,19,133,152,USP30 deubiquitinase inhibition: Primary qHTS,Inhibitors
+1645876,Histone-lysine N-methyltransferase NSD2,Protein,132,458,590,Primary qHTS for inhibitors of nuclear receptor binding SET domain protein 2 (NSD2) in an isogenic RCH-ACV NSD2 p.E1099K mutant (9B),Inhibitors
+1671190,Polyunsaturated fatty acid lipoxygenase ALOX12,Protein,16,900,916,Primary qHTS assay for inhibitors of human arachidonate 12S-lipoxygenase (ALOX12): Round 2,Inhibitors
+1671193,SNCA,Protein,19,971,990,GF-AFC viability counterscreen for inhibitors of alpha-synuclein gene (SNCA) expression,Inhibitors
+1671196,cytochrome P450 2D6,Protein,31,167,198,Cytochrome P450 Family 2 Subfamily D Member 6 (CYP2D6) small molecule antagonists: luciferase reporter qHTS assay,small molecule antagonists
+1671197,"cytochrome P450, family 2, subfamily C, polypeptide 19",Protein,81,122,203,Cytochrome P450 Family 2 Subfamily C Member 19 (CYP2C19) small molecule antagonists: luciferase reporter qHTS assay,small molecule antagonists
+1671198,cytochrome P450 family 2 subfamily C polypeptide 9,Protein,61,112,173,Cytochrome P450 Family 2 Subfamily C Member 9 (CYP2C9) small molecule antagonists: luciferase reporter qHTS assay,small molecule antagonists
+1671199,"cytochrome P450, family 1, subfamily A, polypeptide 2",Protein,50,123,173,Cytochrome P450 Family 1 Subfamily A Member 2 (CYP1A2) small molecule antagonists: luciferase reporter qHTS assay,small molecule antagonists
+1671201,cytochrome P450 family 3 subfamily A polypeptide 4,Protein,64,147,211,Cytochrome P450 Family 3 Subfamily A Member 4 (CYP3A4) small molecule antagonists: luciferase reporter qHTS assay,small molecule antagonists
+1745845,Ataxin-2,Protein,35,328,363,Primary qHTS for Inhibitors of ATXN expression,Inhibitors
+1745853,Methyltransferases,Protein,25,619,644,Primary Screen for Target Class Profiling of Small Molecule Inhibitors of Methyltransferases,Inhibitors
+1794795,SW-620,Cell Line,21,233,254,"NCI human tumor cell line growth inhibition assay. Data for the SW-620 Non-Small Cell Lung cell line, single concentration",Non-Small Cell Lung
